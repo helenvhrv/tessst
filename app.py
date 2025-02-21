@@ -1,1 +1,6 @@
-a + b = 7
+#%%
+import streamlit as st
+
+st.title('privet')
+
+#%%
